@@ -6,7 +6,7 @@ bonjour,
 
 With a degree in Economics and Business Management, I bring 4+ years of experience in digital marketing, strategic communications, and data analysis. I’ve worked at fast-paced startups like Prontopro and Lori Beds, where I optimized conversion rates (+75%) and scaled growth through A/B testing, CRO, and rebranding. Proficient in web development and design (HTML, CSS, Shopify, Figma), data analysis (Google Analytics, Python, and much more), and paid campaigns (Pinterest, Meta, Google Ads). 
 
-I believe in the power of data and integrating marketing and data it's not only exciting but essential.
+Integrating marketing and data is not only exciting but essential.
 
 # 💻 Tech Stack:
 
